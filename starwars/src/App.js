@@ -31,6 +31,8 @@ const App = () => {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    font-family: 'Poller One', cursive;
+    
   `;
 
 
