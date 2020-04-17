@@ -4,8 +4,6 @@ import styled from 'styled-components';
 
 const Character = props =>{
 
-    console.log(props.spec)
-
     const StyledCharacter = styled.div`
         background-color: white;
         margin: 10px 15%;
